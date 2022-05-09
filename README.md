@@ -1,7 +1,7 @@
 # Youtube-Clone
 It's a mini Youtube app build on html css and js only.
 
-Check the LIVE hosted website [here]() or check screenshots below.
+Check the LIVE hosted website [here](https://youtube-clone-sandy.vercel.app/) or check screenshots below.
 ## Features
 
 - Browse Top 20 Trending videos of Youtube.
